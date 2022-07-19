@@ -1,0 +1,22 @@
+{
+  "name": "portafolioweb",
+  "version": "1.0.1",
+  "description": "Beta portafolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "https://github.com/danielfvega"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://DanielFuentesVe@bitbucket.org/DanielFuentesVe/portafoliohtml.git"
+  },
+  "author": "Daniel Fuentes Vega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/DanielFuentesVe/portafoliohtml/issues"
+  },
+  "homepage": "https://bitbucket.org/DanielFuentesVe/portafoliohtml#readme",
+  "dependencies": {
+    "eins-modal": "^2.2.2"
+  }
+}
